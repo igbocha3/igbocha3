@@ -12,7 +12,8 @@
 </div>
 <div align="center">
 <h4><b>🎙️ SINGER-SONGWRITER 🎙️</b></h4>
-    <p>Wrote lyrics and music, performed and recorded, mixed and mastered, <br>
+    <p>Performed as a drummer, guitarist, and vocalist at various self-organized concerts and festival events. <br>
+      Wrote lyrics and music, performed and recorded, mixed and mastered, <br>
     released and promoted the full-length album Sorrowcrafter in 2021.</p>
 </div>
 <div align="center">
