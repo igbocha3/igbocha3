@@ -20,7 +20,7 @@
         Produced, mixed and mastered a huge amount of audio for music bands and various corporate clients.</p>
 </div>
 
-$$[![Igorek’s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igbocha3&layout=compact&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/igbocha3)$$
+$$\text{[![Igorek’s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igbocha3&layout=compact&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/igbocha3)}$$
 
 ![good-boy](https://i.imgur.com/xtoLyW2.jpg  "Good boy on boat")
 
