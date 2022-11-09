@@ -5,15 +5,15 @@
 <div align="center">
 <h1><b>🌯 HI, MY NAME IS IGOR AND I LOVE SHAWARMA 🌯</b></h1>
 </div>
-
+ </b>
 <div align="center">
-<h4><b> SOFTWARE DEVELOPER </b></h4>
+<h4><b>👨‍💻 SOFTWARE DEVELOPER 👨‍💻</b></h4>
 </div>
 <div align="center">
-<h4><b> SINGER-SONGWRITER </b></h4>
+<h4><b>🎙️ SINGER-SONGWRITER 🎙️</b></h4>
 </div>
 <div align="center">
-<h4><b> SOUND ENGINEER </b></h4>
+<h4><b>🔉 SOUND ENGINEER 🔉</b></h4>
 </div>
 
 
