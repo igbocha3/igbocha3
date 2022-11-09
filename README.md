@@ -22,10 +22,10 @@
 
 [![Igorek’s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igbocha3&layout=compact&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/igbocha3)
 
+[Click here](http://exmaple.com){: .btn .btn-primary }
 
-| |
-| :-: |
-| Excerpts from Romeo and Juliet (arr. V. Borisovsky) |
+Lead information paragraph
+{: .lead }
 
 
 <div align="center">
