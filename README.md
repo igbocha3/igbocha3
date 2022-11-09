@@ -6,8 +6,7 @@
 </div>
 <div align="center">
 <h4><b>👨‍💻 SOFTWARE DEVELOPER 👨‍💻</b></h4>
-  <p>Big fan of automation and data structuring. <br>
-    From 2021 a hardworking student dedicated to learning and developing programming skills. <br>
+  <p>From 2021 a hardworking student dedicated to learning and developing programming skills. <br>
     Crypto enthusiast, curious about VR/AR technologies and belief in the future of the metaverse.</p>
 </div>
 <div align="center">
