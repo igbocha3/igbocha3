@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-Experienced sound specialist, founder of an extremely successful recording studio, can sing and play any musical instruments. Big fan of automation and data structuring. Organized and communicative, self-directed and detail-oriented. From 2021 a hardworking student committed to learning and developing coding skills. Superior performance in working independently and collaborating with others on group projects. Most interested in app and game development. Crypto enthusiast, curious about VR/AR technologies and believer in the future of the Metaverse.
+Experienced sound specialist, founder of a highly successful recording studio. Big fan of automation and data structuring. From 2021 a hardworking student dedicated to learning and developing programming skills. Strong interest in app and game development. Crypto enthusiast, curious about VR/AR technologies and belief in the future of the metaverse.
 </div>
