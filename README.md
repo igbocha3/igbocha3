@@ -22,16 +22,3 @@
         to work with musicians and create high quality audio materials. <br>
         Produced, mixed and mastered a huge amount of audio for music bands and various corporate clients.</p>
 </div>
-
-
-Founded and managed own recording studio, organized a full-stage sound recording process to work with musicians and create high quality audio materials.
-
-
-
-<div align="center">
-Experienced sound specialist, founder of a highly successful recording studio. <br>
-  Big fan of automation and data structuring. Organized and communicative, self-directed and detail-oriented. <br>
-  From 2021 a hardworking student dedicated to learning and developing programming skills. <br>
-  Strong interest in app and game development. <br>
-  Crypto enthusiast, curious about VR/AR technologies and belief in the future of the metaverse. <br>
-</div>
