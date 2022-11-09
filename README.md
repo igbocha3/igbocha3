@@ -22,12 +22,9 @@
 
 <div align="center">
   <p>
-| C | Python | JavaScript | Node.js | <br>
-| Shell | Automation | Data Analysis | <br>
-| Linux System Administration | AWS | <br>
-| Audio Mixing | Synth Programming | <br>
-| Sound Design | Music Production | <br>
-| Music Theory | Video Editing |
+| C | Python | JavaScript | Node.js | Shell | Automation | Data Analysis | Linux System Administration | AWS | <br><br>
+    
+| Audio Mixing | Synth Programming | Sound Design | Music Production | Music Theory | Video Editing |
   </p>
 </div>
 
