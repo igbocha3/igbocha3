@@ -6,8 +6,9 @@
 </div>
 <div align="center">
 <h4><b>👨‍💻 SOFTWARE DEVELOPER 👨‍💻</b></h4>
-  <p>From 2021 a hardworking student dedicated to learning and developing programming skills. <br>
-    Crypto enthusiast, curious about VR/AR technologies and belief in the future of the metaverse.</p>
+  <p>From 2021 a hardworking 42 Abu Dhabi student dedicated to learning and developing programming skills. <br>
+    Most interested in app and game development. <br>
+    Curious about VR/AR technologies and belief in the future of the metaverse.</p>
 </div>
 <div align="center">
 <h4><b>🎙️ SINGER-SONGWRITER 🎙️</b></h4>
