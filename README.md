@@ -3,17 +3,17 @@
 </div>
 
 <div align="center">
-<h1><b>🌯 Hi, my name is Igor and I Love Shawarma 🌯</b></h1>
+<h1><b>🌯 HI, MY NAME IS IGOR AND I LOVE SHAWARMA 🌯</b></h1>
 </div>
 
 <div align="center">
-<h1><b> SOFTWARE DEVELOPER </b></h1>
+<h4><b> SOFTWARE DEVELOPER </b></h4>
 </div>
 <div align="center">
-<h1><b> SINGER-SONGWRITER </b></h1>
+<h4><b> SINGER-SONGWRITER </b></h4>
 </div>
 <div align="center">
-<h1><b> SOUND ENGINEER </b></h1>
+<h4><b> SOUND ENGINEER </b></h4>
 </div>
 
 
