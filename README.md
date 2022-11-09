@@ -5,7 +5,7 @@
 <div align="center">
 <h1><b>🌯 HI, MY NAME IS IGOR AND I LOVE SHAWARMA 🌯</b></h1>
 </div>
- </b>
+ <br> <br>
 <div align="center">
 <h4><b>👨‍💻 SOFTWARE DEVELOPER 👨‍💻</b></h4>
 </div>
