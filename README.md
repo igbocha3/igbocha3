@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-<b>Hi, my name is Igor and I Love Shawarma 🌯</b>
+<h1><b>Hi, my name is Igor and I Love Shawarma 🌯</b></h1>
 </div>
