@@ -7,6 +7,19 @@
 </div>
 
 <div align="center">
+<h1><b> SOFTWARE DEVELOPER </b></h1>
+</div>
+<div align="center">
+<h1><b> SINGER-SONGWRITER </b></h1>
+</div>
+<div align="center">
+<h1><b> SOUND ENGINEER </b></h1>
+</div>
+
+
+
+
+<div align="center">
 Experienced sound specialist, founder of a highly successful recording studio. <br>
   Big fan of automation and data structuring. Organized and communicative, self-directed and detail-oriented. <br>
   From 2021 a hardworking student dedicated to learning and developing programming skills. <br>
