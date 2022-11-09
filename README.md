@@ -7,7 +7,7 @@
 <div align="center">
 <h4><b>👨‍💻 SOFTWARE DEVELOPER 👨‍💻</b></h4>
   <p>From 2021 a hardworking 42 Abu Dhabi student dedicated to learning and developing programming skills. <br>
-    Curious about VR/AR technologies and belief in the future of the metaverse. <br>
+    Curious about **VR/AR** technologies and belief in the future of the metaverse. <br>
       Most interested in app and game development. </p>
 </div>
 <div align="center">
