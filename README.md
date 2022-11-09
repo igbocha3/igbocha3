@@ -1,3 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi,%20my%20name%20is%20Igor%20and%20I%20Love%20Shawarma%20Sapere%20Aude,%20I%27m%20Ihab%20Heb!%20%F0%9F%92%BB&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
-
 ### Hi, my name is Igor and I Love Shawarma 🌯
+
+
+
+<div align="center">
+<img width="800pxl" height = "300pxl" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fshawarma-lazeez-skPbTSWA7CTEVGA6AN&psig=AOvVaw1zLPaTq-9Upzw4UnTnH8T0&ust=1668118930217000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIC5pbqRovsCFQAAAAAdAAAAABA6" alt="cover" />
+</div>
