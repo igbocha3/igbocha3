@@ -18,12 +18,14 @@
 </div>
 <div align="center">
 <h4><b>🔉 SOUND ENGINEER 🔉</b></h4>
+      <p>Founded and managed own recording studio, organized a full-stage sound recording process <br>
+        to work with musicians and create high quality audio materials. <br>
+        Produced, mixed and mastered a huge amount of audio for music bands and various corporate clients.</p>
 </div>
 
 
+Founded and managed own recording studio, organized a full-stage sound recording process to work with musicians and create high quality audio materials.
 
-
-Wrote lyrics and music, performed and recorded, mixed and mastered, released and promoted the full-length album Sorrowcrafter in 2021.
 
 
 <div align="center">
