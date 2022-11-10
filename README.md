@@ -29,8 +29,8 @@
 </div>
 <div align="center">
 <h4><b>🔉 SOUND ENGINEER 🔉</b></h4>
-      <p>Founded and managed own recording studio <a href="https://www.youtube.com/c/AMBERVOXKHV" link=blank>Ambervox</a>, organized a full-stage sound recording process <br>
-        to work with musicians and create high quality audio materials. <br>
+      <p>Founded and managed own recording studio <a href="https://www.youtube.com/c/AMBERVOXKHV" link=blank>Ambervox</a>, organized a full-stage sound <br>
+        recording process to work with musicians and create high quality audio materials. <br>
         Produced, mixed and mastered a huge amount of audio for music bands and various corporate clients.</p>
 </div>
 
