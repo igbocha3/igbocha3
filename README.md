@@ -17,7 +17,7 @@
    <h2> </h2>
 <h4><b>👨‍💻 SOFTWARE DEVELOPER 👨‍💻</b></h4>
   <p>Hardworking <a href="https://42abudhabi.ae/" link=blank>42 Abu Dhabi</a> student dedicated to learning and developing programming skills. <br>
-    Curious about VR/AR technologies and belief in the future of the metaverse. <br>
+    Curious about VR/AR technologies and believer in the future of the metaverse. <br>
       Most interested in app and game development. </p>
 </div>
 <div align="center">
