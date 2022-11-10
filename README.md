@@ -22,12 +22,14 @@
       Most interested in app and game development. </p>
 </div>
 <div align="center">
+      <h2> </h2>
 <h4><b>🎙️ SINGER-SONGWRITER 🎙️</b></h4>
     <p>Performed as a drummer, guitarist, and vocalist at various self-organized concerts and festival events. <br>
       Wrote lyrics and music, performed and recorded, mixed and mastered, <br>
     released and promoted the full-length album <a href="https://band.link/Kw27o" link=blank>Sorrowcrafter</a>.</p>
 </div>
 <div align="center">
+      <h2> </h2>
 <h4><b>🔉 SOUND ENGINEER 🔉</b></h4>
       <p>Founded and managed own <a href="https://www.youtube.com/watch?v=T_haOsQ7Gf4" link=blank>Ambervox</a> recording studio, organized a full-stage sound <br>
         recording process to work with musicians and create high quality audio materials. <br>
