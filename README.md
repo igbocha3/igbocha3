@@ -2,7 +2,8 @@
 
 
 <div align="center">
-<h1><b>🌯 HI, MY NAME IS IGOR AND I LOVE SHAWARMA 🌯</b></h1>
+<h1><b>🌯 HI, MY NAME IS IGOR 🌯</b></h1>
+<h1><b>🌯 AND I LOVE SHAWARMA 🌯</b></h1>
 </div>
 
 <div align="center"><br>
