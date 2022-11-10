@@ -1,4 +1,4 @@
-![Shawarma](shawarma.png)
+![Shawarma](Shawarma.png)
 
 
 <div align="center">
