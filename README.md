@@ -1,5 +1,4 @@
-
-<img src ='https://www.ishawarma.com/images/slide-front-see.png'>
+![Shawarma](shawarma.png)
 
 
 <div align="center">
