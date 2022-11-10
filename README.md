@@ -19,12 +19,6 @@
         to work with musicians and create high quality audio materials. <br>
         Produced, mixed and mastered a huge amount of audio for music bands and various corporate clients.</p>
 </div>
-<div align="center">
-  <p>
-| C | Python | JavaScript | Node.js | Shell | Automation | Data Analysis | Linux System Administration | AWS | <br>  
-| Audio Mixing | Synth Programming | Sound Design | Music Production | Music Theory | Video Editing |
-  </p>
-</div>
 
 <div align="center">
 <h2> </h2>
@@ -32,7 +26,9 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/virtualbox.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vim.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vscode.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>
 </div>
 
