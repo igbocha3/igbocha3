@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <h2> </h2>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
@@ -14,6 +13,7 @@
 </div>
 
 <div align="center">
+   <h2> </h2>
 <h4><b>👨‍💻 SOFTWARE DEVELOPER 👨‍💻</b></h4>
   <p>From 2021 a hardworking 42 Abu Dhabi student dedicated to learning and developing programming skills. <br>
     Curious about VR/AR technologies and belief in the future of the metaverse. <br>
