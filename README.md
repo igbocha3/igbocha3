@@ -1,8 +1,5 @@
-<img>
 
-
-https://www.ishawarma.com/images/slide-front-see.png
-<img width ='32px' src ='https://www.ishawarma.com/images/slide-front-see.png'>
+<img src ='https://www.ishawarma.com/images/slide-front-see.png'>
 
 
 <div align="center">
