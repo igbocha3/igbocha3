@@ -2,7 +2,7 @@
 <h1><b>🌯 HI, MY NAME IS IGOR AND I LOVE SHAWARMA 🌯</b></h1>
 </div>
 
-<div align="center">
+<div align="center"><br>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
