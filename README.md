@@ -20,6 +20,13 @@
         Produced, mixed and mastered a huge amount of audio for music bands and various corporate clients.</p>
 </div>
 
+
+<div align="center">
+<img width="400pxl" height = "150pxl" src="https://media4.giphy.com/media/lovPEehUzdQRi1bgKk/giphy.gif?cid=6c09b952frrbu9kcwkj0c5562ms9w2n35h8kkihqfw2ag1cw&rid=giphy.gif&ct=s?h=257&la=en&w=759&hash=7EDF5B29736E43CAB153AEA504773656C3230C43" alt="cover" />
+  <img width="400pxl" height = "150pxl" src="https://media4.giphy.com/media/lovPEehUzdQRi1bgKk/giphy.gif?cid=6c09b952frrbu9kcwkj0c5562ms9w2n35h8kkihqfw2ag1cw&rid=giphy.gif&ct=s?h=257&la=en&w=759&hash=7EDF5B29736E43CAB153AEA504773656C3230C43" alt="cover" />
+  <img width="400pxl" height = "150pxl" src="https://media4.giphy.com/media/lovPEehUzdQRi1bgKk/giphy.gif?cid=6c09b952frrbu9kcwkj0c5562ms9w2n35h8kkihqfw2ag1cw&rid=giphy.gif&ct=s?h=257&la=en&w=759&hash=7EDF5B29736E43CAB153AEA504773656C3230C43" alt="cover" />
+</div>
+
 <div align="center">
 <h2> </h2>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
@@ -29,10 +36,4 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>
-</div>
-
-<div align="center">
-<img width="400pxl" height = "150pxl" src="https://media4.giphy.com/media/lovPEehUzdQRi1bgKk/giphy.gif?cid=6c09b952frrbu9kcwkj0c5562ms9w2n35h8kkihqfw2ag1cw&rid=giphy.gif&ct=s?h=257&la=en&w=759&hash=7EDF5B29736E43CAB153AEA504773656C3230C43" alt="cover" />
-  <img width="400pxl" height = "150pxl" src="https://media4.giphy.com/media/lovPEehUzdQRi1bgKk/giphy.gif?cid=6c09b952frrbu9kcwkj0c5562ms9w2n35h8kkihqfw2ag1cw&rid=giphy.gif&ct=s?h=257&la=en&w=759&hash=7EDF5B29736E43CAB153AEA504773656C3230C43" alt="cover" />
-  <img width="400pxl" height = "150pxl" src="https://media4.giphy.com/media/lovPEehUzdQRi1bgKk/giphy.gif?cid=6c09b952frrbu9kcwkj0c5562ms9w2n35h8kkihqfw2ag1cw&rid=giphy.gif&ct=s?h=257&la=en&w=759&hash=7EDF5B29736E43CAB153AEA504773656C3230C43" alt="cover" />
 </div>
