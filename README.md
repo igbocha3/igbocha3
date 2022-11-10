@@ -1,11 +1,5 @@
 ![Shawarma](Shawarma.png)
 
-
-<div align="center">
-<h4>
-   <b>🌯 HI, MY NAME IS IGOR AND I LOVE SHAWARMA 🌯</b></h4>
-</div>
-
 <div align="center"><br>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
