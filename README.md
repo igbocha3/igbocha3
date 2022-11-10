@@ -32,14 +32,14 @@
 </div>
 
 <div align="center">
-<a href = 'https://www.linkedin.com/in/igbocha3'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.instagram.com/sketch555'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
-<a href = 'https://github.com/igbocha3'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-</div>
-
-<div align="center">
   <h2> </h2>
 <img width="400pxl" height = "150pxl" src="https://media4.giphy.com/media/lovPEehUzdQRi1bgKk/giphy.gif?cid=6c09b952frrbu9kcwkj0c5562ms9w2n35h8kkihqfw2ag1cw&rid=giphy.gif&ct=s?h=257&la=en&w=759&hash=7EDF5B29736E43CAB153AEA504773656C3230C43" alt="cover" />
   <img width="400pxl" height = "150pxl" src="https://media4.giphy.com/media/lovPEehUzdQRi1bgKk/giphy.gif?cid=6c09b952frrbu9kcwkj0c5562ms9w2n35h8kkihqfw2ag1cw&rid=giphy.gif&ct=s?h=257&la=en&w=759&hash=7EDF5B29736E43CAB153AEA504773656C3230C43" alt="cover" />
   <img width="400pxl" height = "150pxl" src="https://media4.giphy.com/media/lovPEehUzdQRi1bgKk/giphy.gif?cid=6c09b952frrbu9kcwkj0c5562ms9w2n35h8kkihqfw2ag1cw&rid=giphy.gif&ct=s?h=257&la=en&w=759&hash=7EDF5B29736E43CAB153AEA504773656C3230C43" alt="cover" />
+</div>
+
+<div align="center">
+<a href = 'https://www.linkedin.com/in/igbocha3'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.instagram.com/sketch555'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+<a href = 'https://github.com/igbocha3'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </div>
