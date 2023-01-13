@@ -12,7 +12,13 @@
 <img width ='32px' src ='icons/linux.svg'>
 <img width ='32px' src ='icons/git.svg'>
 <img width ='32px' src ='icons/html.svg'>
+<img width ='32px' src ='icons/logic-pro-x.svg'>
+<img width ='32px' src ='icons/excel.svg'>
 <img width ='32px' src ='icons/photoshop.svg'>
+<img width ='32px' src ='icons/premiere-pro.svg'>
+<img width ='32px' src ='icons/after-effects.svg'>
+<img width ='32px' src ='icons/vs-code.svg'>
+
 </div>
 <div align="center">
    <h2> </h2>
