@@ -5,14 +5,13 @@
 </div>
 
 <div align="center"><br>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
 <img width ='32px' src ='icons/c.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>
+<img width ='32px' src ='icons/python.svg'>
+<img width ='32px' src ='icons/nodejs.svg'>
+<img width ='32px' src ='icons/linux.svg'>
+<img width ='32px' src ='icons/git.svg'>
+<img width ='32px' src ='icons/html.svg'>
+<img width ='32px' src ='icons/photoshop.svg'>
 </div>
 <div align="center">
    <h2> </h2>
